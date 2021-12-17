@@ -9,12 +9,13 @@ const config = {
   title: 'Perimeter Knowledge Base',
   tagline: 'Knowledge Base',
   url: 'https://josephwper.github.io/',
-  baseUrl: '/perimeterdocu/',
+  baseUrl: '/docusaurusnet/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'josephwper', // Usually your GitHub org/user name.
-  projectName: 'perimeterdocu', // Usually your repo name.
+  projectName: 'docusaurusnet', // Usually your repo name.
+  trailingSlash: true,
 
   presets: [
     [
