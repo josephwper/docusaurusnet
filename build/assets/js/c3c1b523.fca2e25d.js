@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkperkb=self.webpackChunkperkb||[]).push([[63],{6615:function(e){e.exports=JSON.parse('{"allTagsPath":"/perimeterdocu/blog/tags","slug":"/perimeterdocu/blog/tags/hello","name":"hello","count":2,"permalink":"/perimeterdocu/blog/tags/hello"}')}}]);
